@@ -23,6 +23,7 @@ Pure HTML + CSS + Bootstrap (no backend)
 - Bootstrap 5
 
 <h2📸 Screenshots</h2>
+This space is kept empty for screenshots
 
 <h2🎯 Purpose</h2>
 The main purpose of this project was to strengthen my understanding of frontend basics before moving into more advanced topics like Python, Machine Learning and full-stack development.
