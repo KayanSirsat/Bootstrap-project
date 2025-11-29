@@ -34,3 +34,5 @@ root
 <br> ├── css/
 <br> ├── images/
 <br> └── README.md
+<h2>📌 Note</h2>
+This is an early practice project from my frontend learning phase. My current focus is Python, Machine Learning, Computer Vision, Data science and AI engineering, but I keep this project public as part of my learning history.
