@@ -3,7 +3,7 @@ _A simple multi-section webpage build while learning Bootstrap fundamentals._
 <h2>📚 About this project</h2>
 This project was created as a part of my learning journey while taking Angela Yu's "Web Development Bootstrap" course on Udemy back in November 2024.
 The goal was to understand and practice:
-- Bootstrap grid system
+<br>- Bootstrap grid system
 - Navigation bars
 - Cards & responsive design
 - Utlity classes
