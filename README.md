@@ -15,3 +15,12 @@ The goal was to understand and practice:
 <br>- Navbar, hero section, cards and footer
 <br>- Clean and minimal design
 <br>- Pure HTML + CSS + Boostrap (no backend)
+<h2>🛠️ Tech Stack</h2>
+- HTML5
+<br>- CSS3
+<br>- Bootstrap 5
+<h2>📸 Screenshots</h2>
+This section is for screenshots
+<h2>🎯 Purpose</h2>
+The main purpose of this project was to strengthen my understanding of frontend basics before moving into more advanced topics like Python, Machine learning and Computer Vision.
+<h2>📝 Learning Outcomes</h2>
