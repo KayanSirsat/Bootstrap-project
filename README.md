@@ -24,3 +24,13 @@ This section is for screenshots
 <h2>🎯 Purpose</h2>
 The main purpose of this project was to strengthen my understanding of frontend basics before moving into more advanced topics like Python, Machine learning and Computer Vision.
 <h2>📝 Learning Outcomes</h2>
+- How to structure a webpage using Bootstrap
+<br>- How to create responsive layouts
+<br>- How to use Bootstrap components efficiently
+<br>- How to write cleaner UI code
+<h2>📂 Folder Structure</h2>
+root
+ ├── index.html
+ ├── css/
+ ├── images/
+ └── README.md
