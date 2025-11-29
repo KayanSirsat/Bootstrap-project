@@ -16,7 +16,6 @@ This is just a practice project, not a high-end website, but it demonstrated my 
 - Navbar, hero section, cards and footer
 - Clean and minimal design
 Pure HTML + CSS + Bootstrap (no backend)
-
 <h2🛠️ Tech Stack</h2>
 - HTML5
 - CSS3
