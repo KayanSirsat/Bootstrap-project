@@ -30,7 +30,7 @@ The main purpose of this project was to strengthen my understanding of frontend 
 <br>- How to write cleaner UI code
 <h2>📂 Folder Structure</h2>
 root
- ├── index.html
- ├── css/
- ├── images/
- └── README.md
+<br> ├── index.html
+<br> ├── css/
+<br> ├── images/
+<br> └── README.md
